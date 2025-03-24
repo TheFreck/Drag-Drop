@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/dragdrop.client/obj/Debug
+/DragDrop.Server/bin/Debug/net8.0
+/DragDrop.Server/obj/Debug/net8.0
+/DragDrop.Server/obj
